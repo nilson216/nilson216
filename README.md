@@ -10,8 +10,8 @@ I'm a web development intern and Computer Science student, passionate about buil
 
 I wrote my first lines of code at age 15, driven by curiosity and the desire to create something of my own. That spark turned into a lifelong passion for programming. Since then, I’ve been committed to learning and growing — not only as a developer but also as a communicator and collaborator.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2>
-Beyond my technical work, I’m passionate about sharing knowledge and supporting others on their learning journey. I'm an active contributor to the <strong>Full Stack Club</strong>, a developer community where I mentor aspiring professionals and help them master tools like TypeScript, Node.js, and React through real-world, hands-on content.
+<h2> 🎓 &nbsp;Lifelong Learner & Passionate Developer </h2>
+Beyond my technical work, I’m dedicated to continuous learning and growth. I’m currently a student at the <strong>Full Stack Club</strong>, a developer community where I sharpen my skills in technologies like TypeScript, Node.js, and React through hands-on, real-world projects and content created by industry professionals.
 
 <h2> 📚 &nbsp;What will you find here?</h2>
 This GitHub isn’t just a collection of code — it’s a showcase of my evolution, mindset, and dedication to quality development. Whether you're a recruiter, a fellow developer, or someone learning to code, here’s what to expect:
