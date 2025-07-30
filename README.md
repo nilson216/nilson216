@@ -37,22 +37,16 @@ If you'd like to connect, collaborate, or have any questions, feel free to <a hr
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
