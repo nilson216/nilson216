@@ -37,7 +37,6 @@ If you'd like to connect, collaborate, or have any questions, feel free to <a hr
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
@@ -46,6 +45,7 @@ If you'd like to connect, collaborate, or have any questions, feel free to <a hr
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
