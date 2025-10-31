@@ -34,7 +34,6 @@ If you'd like to connect, collaborate, or have any questions, feel free to <a hr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 
