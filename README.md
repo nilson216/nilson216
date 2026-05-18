@@ -53,5 +53,5 @@ If you'd like to connect, collaborate, or have any questions, feel free to <a hr
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=nilson216&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilson216&show_icons=true&theme=dracula"/>
 </p>
